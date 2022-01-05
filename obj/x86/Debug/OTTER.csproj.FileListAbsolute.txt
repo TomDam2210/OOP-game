@@ -1,0 +1,101 @@
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.Početak.resources
+C:\Users\Tomislav\Downloads\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.Pocetak.resources
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.Pocetak.resources
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Administrator\Desktop\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.Pocetak.resources
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Tomislav\Downloads\Projekt_Tomo\Projekt_Tomo\Projekt (3)\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.Pocetak.resources
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Tomislav\Desktop\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.Pocetak.resources
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Tomislav\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.AssemblyReference.cache
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.Pocetak.resources
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.CoreCompileInputs.cache
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Tomo\Desktop\Škola\DRUGA_GODINA\OOP\OOP_Projekt_Tomislav_Damjanovic\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
